@@ -1,0 +1,7 @@
+
+a
+java:S2259"DA "NullPointerException" could be thrown; "square" is nullable here.(ûÝÂÜ8¸—âÑ¨/
+d
+java:S2259"GA "NullPointerException" could be thrown; "rectangle" is nullable here.(”Ð¡Œ8¸—âÑ¨/
+f
+java:S2259"DA "NullPointerException" could be thrown; "circle" is nullable here.(ûÐ›¾úÿÿÿÿ8¸—âÑ¨/
